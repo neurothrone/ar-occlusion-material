@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		2FF3732928FB0DB200FE3A39 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF3732828FB0DB200FE3A39 /* AppDelegate.swift */; };
 		2FF3732B28FB0DB200FE3A39 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF3732A28FB0DB200FE3A39 /* ContentView.swift */; };
-		2FF3732D28FB0DB200FE3A39 /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 2FF3732C28FB0DB200FE3A39 /* Experience.rcproject */; };
 		2FF3732F28FB0DB300FE3A39 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2FF3732E28FB0DB300FE3A39 /* Assets.xcassets */; };
 		2FF3733228FB0DB300FE3A39 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2FF3733128FB0DB300FE3A39 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -18,7 +17,6 @@
 		2FF3732528FB0DB200FE3A39 /* AROcclusionMaterial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AROcclusionMaterial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2FF3732828FB0DB200FE3A39 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2FF3732A28FB0DB200FE3A39 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		2FF3732C28FB0DB200FE3A39 /* Experience.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = Experience.rcproject; sourceTree = "<group>"; };
 		2FF3732E28FB0DB300FE3A39 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2FF3733128FB0DB300FE3A39 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -55,7 +53,6 @@
 			children = (
 				2FF3732828FB0DB200FE3A39 /* AppDelegate.swift */,
 				2FF3732A28FB0DB200FE3A39 /* ContentView.swift */,
-				2FF3732C28FB0DB200FE3A39 /* Experience.rcproject */,
 				2FF3732E28FB0DB300FE3A39 /* Assets.xcassets */,
 				2FF3733028FB0DB300FE3A39 /* Preview Content */,
 			);
@@ -142,7 +139,6 @@
 			files = (
 				2FF3732B28FB0DB200FE3A39 /* ContentView.swift in Sources */,
 				2FF3732928FB0DB200FE3A39 /* AppDelegate.swift in Sources */,
-				2FF3732D28FB0DB200FE3A39 /* Experience.rcproject in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
